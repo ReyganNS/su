@@ -5,7 +5,7 @@
 #define DHTPIN 32      
 #define DHTTYPE DHT22 
 
-const char* ssid = "CLARA";      
+const char* ssid = "ADISKA";      
 const char* password = "Clararasmine"; 
 const char* serverUrl = "http://192.168.158.156:5000/data";
 
